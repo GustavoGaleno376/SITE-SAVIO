@@ -14,7 +14,7 @@ if "usu_reserv" not in st.session_state:
 page=st.sidebar.selectbox("Selecione a página",["Cadastro","Seu Perfil","Reservas","Minhas Reservas"])
 
 if page =="Cadastro":
-    st.title("FAÇA SEU CADASTRO")
+    st.title("SEU CADASTRO")
     
     st.session_state.usu_reserv["nome"]=st.text_input("Nome:",value=st.session_state.usu_reserv ["nome"] or"")
     st.session_state.usu_reserv["email"]=st.text_input("Email:",value=st.session_state.usu_reserv ["email"] or"")
