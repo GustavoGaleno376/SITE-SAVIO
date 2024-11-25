@@ -1,0 +1,40 @@
+.st-emotion-cache-ysk9xe e1nzilvr5 {
+    font-family: "Source Sans Pro", sans-serif;
+    background: fixed;color: aqua;
+}
+.st-emotion-cache-bm2z3a {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(174, 0, 255),rgb(6, 8, 8));
+}
+.st-emotion-cache-6qob1r {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: overlay;
+    background-color: black
+}
+.st-emotion-cache-gi0tri {
+    margin-left: 0.5rem;
+    display: inline-flex;
+    gap: 0.5rem;
+    vertical-align: middle;
+}
+
+     
+.st-emotion-cache-bm2z3a {
+    display: flex
+;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color:rgb(72, 72, 162);
+}
+
+
